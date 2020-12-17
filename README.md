@@ -10,17 +10,17 @@ CPU after:
 
 ![](media/0e134a0adcef6670854ac24f1e397cd2.PNG)
 
-![](media/1458bea53ab430fc9a80da5868104ff4.PNG)
-
 CPU before:
+
+![](media/1458bea53ab430fc9a80da5868104ff4.PNG)
 
 Graph after:
 
 ![](media/40c66686874d65c87063676ed4cc0c9e.PNG)
 
-![](media/b17cc4e089fe2773cf0920e22daaec56.PNG)
-
 Graph before:
+
+![](media/b17cc4e089fe2773cf0920e22daaec56.PNG)
 
 Symbols after:
 
